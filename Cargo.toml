@@ -1,0 +1,11 @@
+[package]
+name = "co2_laser_controller"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+vtracer = "0.5.0"
+notify = "5.0.0"
+notify-debouncer-mini = "0.2.1"
